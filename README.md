@@ -1,7 +1,4 @@
 # Hi there, I'm Daniel M 👋
-![Profile Photo](https://drive.google.com/file/d/1RGOHpS9qLdDh_pm9COqBJwDvciFns7uA/view?usp=drive_link)
-
-![Animation](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 ## 🚀 About Me
 I'm a passionate Career Skill Development Coach specializing in training college students and IT staff in various technologies. I also offer freelance support for engineering projects, career counseling, and teaching.
@@ -13,37 +10,16 @@ I'm a passionate Career Skill Development Coach specializing in training college
 
 ## 🛠 Skills
 **Programming Languages:**
-- ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
+- ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) - ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) - ![Python](https://img.shields.io/badge/Python-FFD700?logo=Python&logoColor=white)
 
 **Web Development:**
-- ![Fullstack Development](https://img.shields.io/badge/Fullstack-20232A?logo=javascript&logoColor=61DAFB)
-- ![UI/UX Design](https://img.shields.io/badge/UI/UX-61DAFB?logo=figma&logoColor=white)
+- ![Fullstack Development](https://img.shields.io/badge/Fullstack-20232A?logo=javascript&logoColor=61DAFB) - ![UI/UX Design](https://img.shields.io/badge/UI/UX-61DAFB?logo=figma&logoColor=white)
 
 **Embedded Systems:**
-- ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-00979D?logo=arduino&logoColor=white)
-- ![IoT](https://img.shields.io/badge/IoT-0078D4?logo=iot&logoColor=white)
+- ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-00979D?logo=arduino&logoColor=white) - ![IoT](https://img.shields.io/badge/IoT-0078D4?logo=iot&logoColor=white)
 
 **Sustainable Technologies:**
-- ![Electric Vehicle Design](https://img.shields.io/badge/Electric_Vehicle_Design-FFA500?logo=ev&logoColor=white)
-- ![Energy Management](https://img.shields.io/badge/Energy_Management-FFD700?logo=powerbi&logoColor=white)
+- ![Electric Vehicle Design](https://img.shields.io/badge/Electric_Vehicle_Design-FFA500?logo=ev&logoColor=white) - ![Energy Management](https://img.shields.io/badge/Energy_Management-FFD700?logo=powerbi&logoColor=white)
 
 **PCB Design & Services:**
 - ![PCB Design](https://img.shields.io/badge/PCB_Design-006400?logo=circuitboard&logoColor=white)
@@ -77,7 +53,7 @@ I'm a passionate Career Skill Development Coach specializing in training college
 **Link:** [LinkedIn Post](https://www.linkedin.com/posts/daniel-m-6514a3251_finally-done-our-final-year-project-activity-7099557020952928256-eC4a?utm_source=share&utm_medium=member_desktop) 
 
 ## 📫 Contact Me
-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=github&logoColor=white)](https://mariadaniel2504.wixsite.com/mysite) - [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mariadaniel2504@gmail.com) -[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-m-6514a3251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/danie_l.2507/?igsh=MXdzejA1YjN3bDN5NA%3D%3D) -[![Skype](https://img.shields.io/badge/Skype-00AFF0?logo=skype&logoColor=white)](https://join.skype.com/invite/qrFyKEcqZMaz) - [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=917550183639)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=github&logoColor=white)](https://mariadaniel2504.wixsite.com/mysite)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mariadaniel2504@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-m-6514a3251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/danie_l.2507/?igsh=MXdzejA1YjN3bDN5NA%3D%3D) [![Skype](https://img.shields.io/badge/Skype-00AFF0?logo=skype&logoColor=white)](https://join.skype.com/invite/qrFyKEcqZMaz)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=917550183639)
 
 ## Thanks for visiting my profile! 😊
 
