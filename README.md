@@ -29,7 +29,7 @@ I'm a passionate Career Skill Development Coach specializing in training college
 - **Design:** ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?logo=adobexd&logoColor=white), ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 - **Hardware:** ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white), ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?logo=raspberrypi&logoColor=white)
 - **PCB Design Tools:** ![Proteus](https://img.shields.io/badge/Proteus-007ACC?logo=proteus&logoColor=white), ![EasyEDA](https://img.shields.io/badge/EasyEDA-007ACC?logo=easyeda&logoColor=white), ![Altium](https://img.shields.io/badge/Altium-FFD700?logo=altium&logoColor=white)
-- **CAD Tools:** ![AWS CADD](https://img.shields.io/badge/AWS_CADD-232F3E?logo=amazonaws&logoColor=white)
+- **CAD Tools:** ![AWS CLOUD](https://img.shields.io/badge/AWS_CLOUD-232F3E?logo=amazonaws&logoColor=white)
 
 ## 🌱 Experience
 - Successfully trained numerous students and professionals, improving their job placements and career advancements.
